@@ -1,4 +1,4 @@
-# Práctica Final del Primer Parcial
+# Práctica Creativa
 
 ## Objetivos
 La práctica final del primer parcial consiste en el desarrollo de un script en Python que automatice parcialmente la creación del escenario de pruebas del balanceador de tráfico de la segunda parte de la práctica 2. Opcionalmente, se podrá trabajar con otros escenarios virtuales de complejidad similar o que utilicen contenedores LXC o Docker en vez de máquinas virtuales KVM. En caso de trabajar sobre un escenario alternativo, se debe consultar previamente con los profesores de la asignatura.
